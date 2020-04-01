@@ -14,7 +14,12 @@
     margin-left: 0;
     padding-left: 0;
 }
-
+.Button:disabled{
+    background-color: #b9b099;
+    cursor: not-allowed;
+    border: 1px solid #ccc;
+    color: #888888;
+}
 .Success {
     color: rgb(83, 139, 72);
 }

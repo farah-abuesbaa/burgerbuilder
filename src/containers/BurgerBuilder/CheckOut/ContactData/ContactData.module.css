@@ -9,9 +9,6 @@
     background-color: #e9dfc8;
 }
 
-.Input{
-    display: block;
-}
 
 @media(min-width: 600px){
     .ContactData{
